@@ -8,14 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="OpenTK" Version="4.9.4" />
+    <PackageReference Include="OpenTK" Version="5.0.0-pre.10" />
     <PackageReference Include="Silk.NET.OpenGL" Version="2.22.0" />
     <PackageReference Include="Silk.NET.Windowing" Version="2.22.0" />
   </ItemGroup>
 
-<ItemGroup>
-  <Compile Include="scripts\**\*.cs" />
-</ItemGroup>
+
 
 
 </Project>

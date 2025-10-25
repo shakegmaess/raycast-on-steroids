@@ -46,7 +46,7 @@
           "dependencies": {
             "OpenTK": {
               "target": "Package",
-              "version": "[4.9.4, )"
+              "version": "[5.0.0-pre.10, )"
             },
             "Silk.NET.OpenGL": {
               "target": "Package",
