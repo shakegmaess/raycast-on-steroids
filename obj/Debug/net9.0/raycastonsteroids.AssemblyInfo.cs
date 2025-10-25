@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("raycastonsteroids")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d550d4c981df9d316a093aa1d03ade40634adc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c548dc64363d7ee48fa96f5a2e970a9c0d285d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("raycastonsteroids")]
 [assembly: System.Reflection.AssemblyTitleAttribute("raycastonsteroids")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
